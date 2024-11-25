@@ -1,2 +1,2 @@
 # sentence_correlation_visualizer
-Sentence Correlation Calculator with NetworkX, Rogue, TFIDF
+Sentence Correlation Visualizer with NetworkX, Rogue, TF-IDF
